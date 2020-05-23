@@ -9,7 +9,7 @@ Sample wire-frames created in:
   - Document Management
   - Contacts Management
 - [Balsamiq Wireframes](https://balsamiq.com/)
-  - Document Vault
+  - [Document Vault](balsamiq/document-vault/readme.md)
 
 ## Purpose
 The wireframes here are to explain certain features of the ideas,
