@@ -1,6 +1,8 @@
 # Elements
 
 - Basic
+  - Personal Details
+  - Contact Information
 - WorkEx
 - Expertise
 - Education
